@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-Software developer passionate about building applications across diverse domains.
+T-Level Student passionate about building applications across diverse domains.
 
 🔭 &nbsp;I'm currently working on **apps for my watch**  
 🌱 &nbsp;I'm currently learning **html, java, css**
